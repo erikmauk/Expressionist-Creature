@@ -9,4 +9,4 @@ However, I used dull colors and even put a tear on the penguin in order to conve
 To see this JavaScript file for yourself, here is a link to a Cal Poly HTML page where my code is being hosted:
 http://users.csc.calpoly.edu/~emauk/cpe123/
 
-Then, click on Lab 1.
+Then, click on "Expressionist Creature."
